@@ -1,26 +1,24 @@
 ---
-layout: about
-title: about
+layout: aboutnew
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+description: >
+    <p>Postdoctoral Researcher<br><a href="http://cvlab.cse.msu.edu/">Computer Vision Lab</a>, Department of Computer Science and Engineering<br>Michigan State University, East Lansing<br>Office: Room 3315, Engineering Building, MSU</p>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: my_pic.jpg
+  address: 
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
+importance: 1
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm currently a postdoctoral researcher at Michigan State University, working under the guidance of <a href="http://www.cse.msu.edu/~liuxm/index2.html">Prof. Xiaoming Liu</a>. I previously graduated with Ph. D. degree in Computer Science from <a href="https://en.scu.edu.cn/">Sichuan University</a> where I was advised by <a href="https://ieeexplore.ieee.org/author/37325735600">Prof. Zhisheng You</a> and <a href="http://scubrl.org/qjzhao">Prof. Qijun Zhao</a>.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I study 3D object/scene understanding, including 3D <a href="http://cvlab.cse.msu.edu/project-implicit-dense-correspondence.html">correspondence</a>, <a href="http://cvlab.cse.msu.edu/project-mdr.html">detection</a> and <a href="http://cvlab.cse.msu.edu/project-fully3dobject.html">reconstruction</a>. I am also interested in understanding explainability, <a href="http://cvlab.cse.msu.edu/project-gansvr.html">generalization</a> and <a href="http://cvlab.cse.msu.edu/project-cfsm.html">controllability</a> in generative models, such as GANs and Diffusion Models. In addition, I have a significant amount of experience in 3D face reconstruction, <a href="http://cvlab.cse.msu.edu/project-caface.html">face recognition</a>, and <a href="http://cvlab.cse.msu.edu/project-ffd.html">DeepFake detection</a>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<!--- <font color="blue"> <b>Announcement:</b> I am on job market for faculty positions!</font>--> 
+
