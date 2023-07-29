@@ -10,9 +10,9 @@
 {%- endif -%}
 {%- if site.enable_panelbear_analytics -%}
   <!-- Panelbear Analytics - We respect your privacy -->
-  <script async src="https://cdn.panelbear.com/analytics.js?site={{site.panelbear_analytics}}"></script>
+  <script async src="https://rum.cronitor.io/script.js"></script>
   <script>
-    window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
-    panelbear('config', { site: '{{site.panelbear_analytics}}' });
+    window.cronitor = window.cronitor || function() { (window.cronitor.q = window.cronitor.q || []).push(arguments); };
+    cronitor('config', { clientKey: '10358669881b4a08dae585e751fe6dea' });
   </script>
 {%- endif -%}
