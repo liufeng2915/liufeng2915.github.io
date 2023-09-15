@@ -20,5 +20,5 @@ I'm currently a postdoctoral researcher at Michigan State University, working un
 
 I study 3D object/scene understanding, including 3D <a href="http://cvlab.cse.msu.edu/project-implicit-dense-correspondence.html">correspondence</a>, <a href="http://cvlab.cse.msu.edu/project-mdr.html">detection</a> and <a href="http://cvlab.cse.msu.edu/project-fully3dobject.html">reconstruction</a>. I am also interested in understanding explainability, <a href="http://cvlab.cse.msu.edu/project-gansvr.html">generalization</a> and <a href="http://cvlab.cse.msu.edu/project-cfsm.html">controllability</a> in generative models, such as GANs and Diffusion Models. In addition, I have a significant amount of experience in 3D face reconstruction, <a href="http://cvlab.cse.msu.edu/project-caface.html">face recognition</a>, and <a href="http://cvlab.cse.msu.edu/project-ffd.html">DeepFake detection</a>.
 
-<!--- <font color="blue"> <b>Announcement:</b> I am on job market for faculty positions!</font>--> 
+<font color="blue"> <b>Announcement:</b> I am on the job market, open to new opportunities to continue growing my career.</font>
 
