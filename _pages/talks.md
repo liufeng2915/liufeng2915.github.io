@@ -10,7 +10,7 @@ importance: 3
 <div>
     <div>
         <ul>
-            <li>1/8/2024&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://sites.google.com/view/elfawacv2024">WACV 2024 Workshop of Efficient Learning for Face Analysis</a>, <b>"AIGC for Biometrics" </b></li>
+            <li>1/8/2024&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://sites.google.com/view/elfawacv2024/speakers">WACV 2024 Workshop of Efficient Learning for Face Analysis</a>, <b>"AIGC for Biometrics" </b></li>
         </ul>    
     </div>
     <div>
