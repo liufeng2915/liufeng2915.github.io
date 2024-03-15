@@ -22,6 +22,11 @@ importance: 1
 
 I'm currently a postdoctoral researcher at Michigan State University, working under the guidance of <a href="http://www.cse.msu.edu/~liuxm/index2.html">Prof. Xiaoming Liu</a>. I previously graduated with Ph. D. degree in Computer Science from <a href="https://en.scu.edu.cn/">Sichuan University</a>.
 
-My research interests lie in Computer Vision, Machine Learning and **Generative AI**. Specifically, I study **3D scene understanding**, including **3D** <a href="http://cvlab.cse.msu.edu/project-implicit-dense-correspondence.html">correspondence</a>, <a href="http://cvlab.cse.msu.edu/project-mdr.html">detection</a>, <a href="http://cvlab.cse.msu.edu/project-fully3dobject.html">reconstruction</a> and **3D vision+language understanding**. I am also interested in understanding explainability, <a href="http://cvlab.cse.msu.edu/project-gansvr.html">generalization</a> and <a href="http://cvlab.cse.msu.edu/project-cfsm.html">controllability</a> in generative models, such as GANs and Diffusion Models. In addition, I have a significant amount of experience in 3D <a href="http://cvlab.cse.msu.edu/project-nonlinear-3dmm.html">face</a>/<a href="http://cvlab.cse.msu.edu/project-reid3dinvar.html">body</a> reconstruction, <a href="http://cvlab.cse.msu.edu/project-caface.html">face</a> and <a href="http://cvlab.cse.msu.edu/project-gaitnet.html">gait</a> recognition, and <a href="http://cvlab.cse.msu.edu/project-ffd.html">DeepFake detection</a>.
-
+Research interests:
+<ul>
+<li>3D Computer Vision: 3D object/scene understanding</li>
+<li>Generative AI: Explainability, generalization and controllability in generative models; DeepFake detection</li>
+<li>3D Human Digitization: Modeling, reconstruction and rendering</li>
+<li>Biometric Recognition: Face and gait recognition; person re-identification</li>
+</ul>
 
