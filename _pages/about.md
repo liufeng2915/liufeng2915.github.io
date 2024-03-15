@@ -24,9 +24,9 @@ I'm currently a postdoctoral researcher at Michigan State University, working un
 
 Research interests:
 <ul>
-<li>3D Computer Vision: 3D object/scene understanding</li>
-<li>Generative AI: Explainability, generalization and controllability in generative models; DeepFake detection</li>
-<li>3D Human Digitization: Modeling, reconstruction and rendering</li>
-<li>Biometric Recognition: Face and gait recognition; person re-identification</li>
+<li>**3D Computer Vision**: 3D object/scene understanding; 3D Generation; 3D vision+language understanding</li>
+<li>**Generative AI**: Explainability, generalization and controllability in generative models; DeepFake detection</li>
+<li>**3D Human Digitization**: Modeling, reconstruction and rendering</li>
+<li>**Biometric Recognition**: Face and gait recognition; person re-identification</li>
 </ul>
 
