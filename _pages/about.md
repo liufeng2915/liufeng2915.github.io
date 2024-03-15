@@ -22,11 +22,11 @@ importance: 1
 
 I'm currently a postdoctoral researcher at Michigan State University, working under the guidance of <a href="http://www.cse.msu.edu/~liuxm/index2.html">Prof. Xiaoming Liu</a>. I previously graduated with Ph. D. degree in Computer Science from <a href="https://en.scu.edu.cn/">Sichuan University</a>.
 
-Research interests:
+**Research interests:**
 <ul>
-<li>**3D Computer Vision**: 3D object/scene understanding; 3D Generation; 3D vision+language understanding</li>
-<li>**Generative AI**: Explainability, generalization and controllability in generative models; DeepFake detection</li>
-<li>**3D Human Digitization**: Modeling, reconstruction and rendering</li>
-<li>**Biometric Recognition**: Face and gait recognition; person re-identification</li>
+<li><b>3D Computer Vision</b>: 3D object/scene understanding; 3D Generation; 3D vision+language understanding</li>
+<li><b>Generative AI</b>: Explainability, generalization and controllability in generative models; DeepFake detection</li>
+<li><b>3D Human Digitization</b>: Modeling, reconstruction and rendering</li>
+<li><b>Biometric Recognition</b>: Face and gait recognition; person re-identification</li>
 </ul>
 
