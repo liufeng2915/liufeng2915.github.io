@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-07-01
+date: 2022-07-08
 inline: true
 ---
-<span style="color: blue;">Our papers “Open-Set Biometrics: Beyond Good Closed-Set Models” is accepted by ECCV 2024.</span> 
+Our papers “2D GANs Meet Unsupervised Single-View 3D Reconstruction” and “Controllable and Guided Face Synthesis for Unconstrained Face Recognition” are accepted by ECCV 2022.

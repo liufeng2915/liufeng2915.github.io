@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-02-26
+date: 2024-07-01
 inline: true
 ---
-<span style="color: blue;">Three papers are accepted by CVPR 2024!</span>
+<span style="color: blue;">Our paper “Open-Set Biometrics: Beyond Good Closed-Set Models” is accepted by ECCV 2024.</span> 
