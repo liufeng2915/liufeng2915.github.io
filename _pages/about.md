@@ -18,7 +18,7 @@ importance: 1
 
 <p><font color="red"> <b>I will join Drexel University as an Assistant Professor in September 2024!</b> </font></p>
 
-<p><font color="red"> <b>Recruiting Ph.D. students and interns!</b></font> <font color="blue">I am currently seeking highly motivated Ph.D. students for Fall 2024, Spring 2025 and Fall 2025. If you are interested, please send me your CV, transcripts, and a brief summary of your research experience via email.</font></p> 
+<p><font color="red"> <b>Recruiting Ph.D. students and interns!</b></font> <font color="blue">I am currently seeking highly motivated Ph.D. students for Spring 2025 and Fall 2025. If you are interested, please send me your CV, transcripts, and a brief summary of your research experience via email.</font></p> 
 
 I'm currently a postdoctoral researcher at Michigan State University, working under the guidance of <a href="http://www.cse.msu.edu/~liuxm/index2.html">Prof. Xiaoming Liu</a>. I previously graduated with Ph. D. degree in Computer Science from <a href="https://en.scu.edu.cn/">Sichuan University</a>.
 
