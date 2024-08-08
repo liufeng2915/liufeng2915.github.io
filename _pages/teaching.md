@@ -7,7 +7,7 @@ importance: 5
 ---
 <div>
 		<ul>
-            <li><a href="assets/pdf/CS583_syllabus.pdf">CS583 Introduction to Computer Vision</a>, Fall 2024</li>
+            <li><a href="../assets/pdf/CS583_syllabus.pdf">CS583 Introduction to Computer Vision</a>, Fall 2024</li>
         </ul>
 
 </div>
