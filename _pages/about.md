@@ -3,7 +3,7 @@ layout: aboutnew
 title: About
 permalink: /
 description: >
-    <p><b>Postdoctoral Researcher</b><br><a href="http://cvlab.cse.msu.edu/">Computer Vision Lab</a>, Department of Computer Science and Engineering<br>Michigan State University, East Lansing<br>Office: Room 3315, Engineering Building, MSU<br>liufeng2915@gmail.com</p>
+    <p><b>Assistant Professor</b><br>Department of Computer Science<br>Drexel University<br>liufeng2915@gmail.com</p>
 
 profile:
   align: right
@@ -16,11 +16,9 @@ social: false  # includes social icons at the bottom of the page
 importance: 1
 ---
 
-<p><font color="red"> <b>I will join Drexel University as an Assistant Professor in September 2024!</b> </font></p>
+<p><font color="red"> <b>Recruiting Ph.D. students and interns!</b></font> <font color="blue">I am currently seeking highly motivated Ph.D. students for Spring and Fall 2025. If you are interested, please send me your CV, transcripts, and a brief summary of your research experience via email.</font></p> 
 
-<p><font color="red"> <b>Recruiting Ph.D. students and interns!</b></font> <font color="blue">I am currently seeking highly motivated Ph.D. students for Spring 2025 and Fall 2025. If you are interested, please send me your CV, transcripts, and a brief summary of your research experience via email.</font></p> 
-
-I'm currently a postdoctoral researcher at Michigan State University, working under the guidance of <a href="http://www.cse.msu.edu/~liuxm/index2.html">Prof. Xiaoming Liu</a>. I previously graduated with Ph. D. degree in Computer Science from <a href="https://en.scu.edu.cn/">Sichuan University</a>.
+Feng Liu is an Assistant Professor in the <a href="https://drexel.edu/cci/academics/computer-science-department/">Department of Computer Science</a> at <a href="https://drexel.edu/">Drexel University</a>. Previously, he was a postdoctoral researcher at Michigan State University, working under the guidance of <a href="http://www.cse.msu.edu/~liuxm/index2.html">Prof. Xiaoming Liu</a>. 
 
 **Research interests:**
 <ul>
