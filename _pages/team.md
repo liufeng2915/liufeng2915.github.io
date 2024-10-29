@@ -4,5 +4,5 @@ permalink: /team/
 title: Team
 description: 
 nav: true
-importance: 1
+importance: 2
 
