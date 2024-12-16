@@ -3,7 +3,7 @@ layout: aboutnew
 title: About
 permalink: /
 description: >
-    <p><b>Assistant Professor</b><br>Department of Computer Science<br>Drexel University<br>liufeng2915@gmail.com</p>
+    <p><b>Assistant Professor</b><br>Department of Computer Science<br>Drexel University<br>liufeng2915@gmail.com; fl397@drexel.edu</p>
 
 profile:
   align: right
