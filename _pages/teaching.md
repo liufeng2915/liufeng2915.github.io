@@ -6,10 +6,13 @@ nav: true
 importance: 5
 ---
 <div>
+        <ul>
+            <li><a href="">CS435 Computational Photography</a>, Winter 2024-2025, Drexel University</li>
+        </ul>
 		<ul>
-            <li><a href="">CS583 Introduction to Computer Vision</a>, Fall 2024, Drexel University</li>
+            <li><a href="">CS583 Introduction to Computer Vision</a>, Fall 2024-2025, Drexel University</li>
         </ul>
         <ul>
-            <li><a href="">CSE803 Computer Vision</a>, Fall 2023, Michigan State University</li>
+            <li><a href="">CSE803 Computer Vision</a>, Fall 2023-2024, Michigan State University</li>
         </ul>
 </div>
