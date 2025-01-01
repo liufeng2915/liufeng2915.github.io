@@ -4,5 +4,5 @@ permalink: /lab/
 title: Visual Intelligence Lab
 description: 
 nav: true
-importance: 2
+importance: 6
 ---
