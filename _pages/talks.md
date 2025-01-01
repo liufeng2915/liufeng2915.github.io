@@ -5,7 +5,7 @@ permalink: /talks/
 nav: true
 display_categories: [talks]
 horizontal: false
-importance: 4
+importance: 5
 ---
 <div>
     <div>

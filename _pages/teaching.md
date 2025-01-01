@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 nav: true
-importance: 5
+importance: 4
 ---
 <div>
         <ul>
