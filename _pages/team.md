@@ -48,7 +48,7 @@ importance: 5
       guziang@msu.edu<br>
     </td>
     <td valign="top" align="center" style="padding-right: 20px;">
-      <img src="../assets/img/shengyang_pic.jpg" alt="Shengyang Portrait" style="height:250px;"><br>
+      <img src="../assets/img/Shengyang_pic.jpg" alt="Shengyang Portrait" style="height:250px;"><br>
       <strong>Shengyang Dong</strong><br>
       <strong>Topic:</strong> Discriminative 3D human digitization<br>
       <strong>Undergraduate,</strong> Drexel University<br>
