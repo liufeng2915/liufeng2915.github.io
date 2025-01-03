@@ -25,8 +25,20 @@ importance: 5
       <strong>Position:</strong> Postdoc<br>
       <strong>Education:</strong> PhD with [University/Advisor]<br>
     </td>
+    <td valign="top" align="center">
+      <img src="../assets/img/my_pic.jpg" alt="Feng Liu Portrait" style="height:250px;"><br>
+      <strong>Feng Liu</strong><br>
+      <strong>Position:</strong> Postdoc<br>
+      <strong>Education:</strong> PhD with [University/Advisor]<br>
+    </td>
   </tr>
   <tr>
+    <td valign="top" align="center">
+      <img src="../assets/img/my_pic.jpg" alt="Feng Liu Portrait" style="height:250px;"><br>
+      <strong>Feng Liu</strong><br>
+      <strong>Position:</strong> Postdoc<br>
+      <strong>Education:</strong> PhD with [University/Advisor]<br>
+    </td>
     <td valign="top" align="center">
       <img src="../assets/img/my_pic.jpg" alt="Feng Liu Portrait" style="height:250px;"><br>
       <strong>Feng Liu</strong><br>
