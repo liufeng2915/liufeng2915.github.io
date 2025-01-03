@@ -18,9 +18,11 @@ importance: 4
     <h3>Academic Services</h3>
     <div>
         <ul>
+            <li>Guest Editor for Journal of Imaging</li>
             <li>Area Chairs for FG 2024, 2025</li>
+            <li>Area Chair for IJCNN 2025</li>
             <li><b>Journal Reviewer:</b> IEEE Transactions on Pattern Analysis and Machine Intelligence; IEEE Transactions on Information Forensics and Security; IEEE Transactions on Image Processing; IEEE Transactions on Visualization and Computer Graphics; IEEE Transactions on Industrial Informatics;IEEE Transactions on Multimedia; ACM Transactions on Multimedia Computing, Communications, and Applications; Pattern Recognition    </li>
-            <li><b>Conference Reviewer:</b> CVPR 2019, 2020, 2021, 2022, 2023, 2024; ICCV 2019, 2021, 2023; ECCV 2020, 2022, 2024; NeurIPS 2022, 2023, 2024; ICML 2024; ICLR 2022, 2023, 2024 </li>
+            <li><b>Conference Reviewer:</b> CVPR 2019-2025; ICCV 2019-2025; ECCV 2020-2024; NeurIPS 2022-2024; ICML 2024-2025; ICLR 2022-2024 </li>
         </ul>    
     </div>
 
