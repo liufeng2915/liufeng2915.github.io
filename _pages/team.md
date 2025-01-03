@@ -16,19 +16,19 @@ importance: 5
 
 <table style="margin-left: auto; margin-right: auto;">
   <tr>
-    <td valign="top" align="center" style="padding-right: 20px;">
+    <td valign="top" align="center" style="padding-right: 20px; padding-bottom: 20px;">
       <img src="../assets/img/Behafarin_pic.jpg" alt="Behafarin Portrait" style="height:250px;"><br>
       <strong>Behafarin Emam</strong><br>
-      <strong>Topic:</strong> WiFi data-based 3D body modeling and Recognition<br>
+      <strong>Topic:</strong> WiFi data-based 3D body modeling<br>
       <strong>Master,</strong> Drexel University<br>
     </td>
-    <td valign="top" align="center" style="padding-right: 20px;">
+    <td valign="top" align="center" style="padding-right: 20px; padding-bottom: 20px;">
       <img src="../assets/img/pic.jpg" alt="Rui Portrait" style="height:250px;"><br>
       <strong>Rui Xia</strong><br>
       <strong>Topic:</strong> 4D motion planning and generation<br>
       <strong>Master,</strong> University of Pennsylvania<br>
     </td>
-    <td valign="top" align="center">
+    <td valign="top" align="center" style="padding-bottom: 20px;">
       <img src="../assets/img/pic.jpg" alt="Kiran Portrait" style="height:250px;"><br>
       <strong>Kiran Shidruk</strong><br>
       <strong>Topic:</strong> Person ReID<br>
