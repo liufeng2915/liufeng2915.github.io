@@ -31,7 +31,7 @@ importance: 5
       xia7@seas.upenn.edu<br>
     </td>
     <td valign="top" align="center" style="padding-bottom: 20px;">
-      <img src="../assets/img/pic.jpg" alt="Kiran Portrait" style="height:250px;"><br>
+      <img src="../assets/img/Kiran_pic.jpg" alt="Kiran Portrait" style="height:250px;"><br>
       <strong>Kiran Shidruk</strong><br>
       <strong>Topic:</strong> Person ReID<br>
       <strong>Master,</strong> Drexel University<br>
