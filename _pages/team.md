@@ -19,7 +19,7 @@ importance: 5
     <td valign="top" align="center" style="padding-right: 20px; padding-bottom: 20px;">
       <img src="../assets/img/Behafarin_pic.jpg" alt="Behafarin Portrait" style="height:250px;"><br>
       <strong>Behafarin Emam</strong><br>
-      <strong>Topic:</strong> WiFi data-based 3D body modeling<br>
+      <strong>Topic:</strong> WiFi data-based 3D human modeling<br>
       <strong>Master,</strong> Drexel University<br>
       be379@drexel.edu<br>
     </td>
