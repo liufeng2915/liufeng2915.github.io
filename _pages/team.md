@@ -12,7 +12,7 @@ importance: 5
 ## PhD students
 <hr> <!-- Horizontal line for visual separation -->
 
-## RAs
+## RAs/Interns
 
 <table style="margin-left: auto; margin-right: auto;">
   <tr>
