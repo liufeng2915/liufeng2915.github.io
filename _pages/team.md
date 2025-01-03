@@ -2,9 +2,10 @@
 layout: page
 permalink: /team/
 title: Team
-description: members of the lab
+description: Members of the lab
 nav: true
 importance: 5
+---
 
 profiles:
   - align: left
@@ -13,4 +14,4 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
----
+
