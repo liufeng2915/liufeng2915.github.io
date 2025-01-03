@@ -15,20 +15,41 @@ importance: 5
   <tr>
     <td valign="top">
 
-### Feng Liu
-![Feng Liu Portrait](../assets/img/my_pic.jpg)
-- **Position:** Postdoc,  
-- **Education:**
-  - PhD with  
+- **Feng Liu**
+  - ![Feng Liu Portrait](../assets/img/my_pic.jpg)
+  - **Position:** Postdoc
+  - **Education:**
+    - PhD with 
 
     </td>
     <td valign="top">
 
-### Feng Liu
-![Feng Liu Portrait](../assets/img/my_pic.jpg)
-- **Position:** Postdoc,  
-- **Education:**
-  - PhD with
+- **Feng Liu**
+  - ![Feng Liu Portrait](../assets/img/my_pic.jpg)
+  - **Position:** Postdoc
+  - **Education:**
+    - PhD with 
+
+    </td>
+  </tr>
+
+    <tr>
+    <td valign="top">
+
+- **Feng Liu**
+  - ![Feng Liu Portrait](../assets/img/my_pic.jpg)
+  - **Position:** Postdoc
+  - **Education:**
+    - PhD with 
+
+    </td>
+    <td valign="top">
+
+- **Feng Liu**
+  - ![Feng Liu Portrait](../assets/img/my_pic.jpg)
+  - **Position:** Postdoc
+  - **Education:**
+    - PhD with 
 
     </td>
   </tr>
