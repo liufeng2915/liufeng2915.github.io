@@ -25,7 +25,7 @@ importance: 5
     <td valign="top" align="center" style="padding-right: 20px; padding-bottom: 20px;">
       <img src="../assets/img/pic.jpg" alt="Rui Portrait" style="height:250px;"><br>
       <strong>Rui Xia</strong><br>
-      <strong>Topic:</strong> 4D motion planning and generation<br>
+      <strong>Topic:</strong> Traffic scenario generation<br>
       <strong>Master,</strong> University of Pennsylvania<br>
     </td>
     <td valign="top" align="center" style="padding-bottom: 20px;">
