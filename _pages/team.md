@@ -14,43 +14,30 @@ importance: 5
 <table>
   <tr>
     <td valign="top">
-
-- **Feng Liu**
-  - ![Feng Liu Portrait](../assets/img/my_pic.jpg)
-  - **Position:** Postdoc
-  - **Education:**
-    - PhD with 
-
+      <img src="../assets/img/my_pic.jpg" alt="Feng Liu Portrait" style="width:150px;">
+      <strong>Feng Liu</strong><br>
+      <strong>Position:</strong> Postdoc<br>
+      <strong>Education:</strong> PhD with [University/Advisor]<br>
     </td>
     <td valign="top">
-
-- **Feng Liu**
-  - ![Feng Liu Portrait](../assets/img/my_pic.jpg)
-  - **Position:** Postdoc
-  - **Education:**
-    - PhD with 
-
+      <img src="../assets/img/my_pic.jpg" alt="Feng Liu Portrait" style="width:150px;">
+      <strong>Feng Liu</strong><br>
+      <strong>Position:</strong> Postdoc<br>
+      <strong>Education:</strong> PhD with [University/Advisor]<br>
     </td>
   </tr>
-
-    <tr>
+  <tr>
     <td valign="top">
-
-- **Feng Liu**
-  - ![Feng Liu Portrait](../assets/img/my_pic.jpg)
-  - **Position:** Postdoc
-  - **Education:**
-    - PhD with 
-
+      <img src="../assets/img/my_pic.jpg" alt="Feng Liu Portrait" style="width:150px;">
+      <strong>Feng Liu</strong><br>
+      <strong>Position:</strong> Postdoc<br>
+      <strong>Education:</strong> PhD with [University/Advisor]<br>
     </td>
     <td valign="top">
-
-- **Feng Liu**
-  - ![Feng Liu Portrait](../assets/img/my_pic.jpg)
-  - **Position:** Postdoc
-  - **Education:**
-    - PhD with 
-
+      <img src="../assets/img/my_pic.jpg" alt="Feng Liu Portrait" style="width:150px;">
+      <strong>Feng Liu</strong><br>
+      <strong>Position:</strong> Postdoc<br>
+      <strong>Education:</strong> PhD with [University/Advisor]<br>
     </td>
   </tr>
 </table>
