@@ -10,6 +10,7 @@ importance: 5
  **We are  looking for new PhD students and research interns to join the team**
 
 ## PhD students
+<hr> <!-- Horizontal line for visual separation -->
 
 ## RAs
 
@@ -38,7 +39,7 @@ importance: 5
     <td valign="top" align="center" style="padding-right: 20px;">
       <img src="../assets/img/Behafarin_pic.jpg" alt="Behafarin Portrait" style="height:250px;"><br>
       <strong>Behafarin Emam</strong><br>
-      <strong>Topic:</strong> WiFi data-based 3D body modeling and Recongition<br>
+      <strong>Topic:</strong> WiFi data-based 3D body modeling and Recognition<br>
       <strong>Master,</strong> Drexel University<br>
     </td>
     <td valign="top" align="center" style="padding-right: 20px;">
