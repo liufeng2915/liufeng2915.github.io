@@ -10,6 +10,24 @@ importance: 5
  **We are  looking for new PhD students and research interns to join the team**
 
 ## PhD students
+
+<table style="margin-left: auto; margin-right: auto;">
+  <tr>
+    <td valign="top" align="center" style="padding-right: 20px; padding-bottom: 20px;">
+      <img src="../assets/img/pic.jpg" alt="Portrait" style="height:250px;"><br>
+      <strong>Recruiting now</strong><br>
+    </td>
+    <td valign="top" align="center" style="padding-right: 20px; padding-bottom: 20px;">
+      <img src="../assets/img/pic.jpg" alt="Portrait" style="height:250px;"><br>
+      <strong>Recruiting now</strong><br>
+    </td>
+    <td valign="top" align="center" style="padding-bottom: 20px;">
+      <img src="../assets/img/pic.jpg" alt="Portrait" style="height:250px;"><br>
+      <strong>Recruiting now</strong><br>
+    </td>
+  </tr>
+</table>
+
 <hr> <!-- Horizontal line for visual separation -->
 
 ## RAs/Interns
