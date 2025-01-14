@@ -72,6 +72,23 @@ importance: 5
       <strong>Undergraduate,</strong> Drexel University<br>
       sd3666@drexel.edu<br>
     </td>
+    <td valign="top" align="center" style="padding-bottom: 20px;">
+      <img src="../assets/img/Safa_pic.jpg" alt="Safa Portrait" style="height:250px;"><br>
+      <strong>Safa Obuz</strong><br>
+      <strong>Topic:</strong> 3D scene/object reconstruction<br>
+      <strong>Undergraduate,</strong> Drexel University<br>
+      seo52@drexel.edu<br>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" align="center" style="padding-right: 20px;">
+      <img src="../assets/img/Mustafa_pic.jpg" alt="Mustafa Portrait" style="height:250px;"><br>
+      <strong>Mustafa Bookwala</strong><br>
+      <strong>Topic:</strong> DeepFake Detection<br>
+      <strong>Undergraduate,</strong> Drexel University<br>
+      mmb479@drexel.edu<br>
+    </td>
   </tr>
 </table>
 
