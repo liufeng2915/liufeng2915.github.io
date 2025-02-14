@@ -26,5 +26,11 @@ importance: 4
         </ul>    
     </div>
 
+    <h3>Professional Membership</h3>
+    <div>
+        <ul>
+            <li>Senior Member, IEEE</li>
+        </ul>    
+    </div>
 
 </div>
