@@ -19,6 +19,7 @@ importance: 4
     <div>
         <ul>
             <li>Guest Editor for Journal of Imaging</li>
+            <li>Area Chair for ACM MM 2025</li>
             <li>Area Chairs for FG 2024, 2025</li>
             <li>Area Chair for IJCNN 2025</li>
             <li><b>Journal Reviewer:</b> IEEE Transactions on Pattern Analysis and Machine Intelligence; IEEE Transactions on Information Forensics and Security; IEEE Transactions on Image Processing; IEEE Transactions on Visualization and Computer Graphics; IEEE Transactions on Industrial Informatics;IEEE Transactions on Multimedia; ACM Transactions on Multimedia Computing, Communications, and Applications; Pattern Recognition    </li>
