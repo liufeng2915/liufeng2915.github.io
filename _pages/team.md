@@ -16,6 +16,7 @@ importance: 5
     <td valign="top" align="center" style="padding-right: 20px; padding-bottom: 20px;">
       <img src="../assets/img/Yuyang_pic.jpg" alt="Yuyang Portrait" style="height:250px;"><br>
       <strong><a href="https://steins45.github.io/" target="_blank">Yuyang Ji</a></strong><br>
+      <strong>Graducate student</strong>, Drexel University (Fall 2025-)<br>
       <strong>Email</strong>: yj428@drexel.edu<br>
       <strong>M.S.</strong>, New York University<br>
       <strong>B.Eng.</strong>, Southwest Jiaotong University<br>
