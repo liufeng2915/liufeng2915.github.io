@@ -53,7 +53,7 @@ importance: 5
       xia7@seas.upenn.edu<br>
     </td>
     <td valign="top" align="center" style="padding-bottom: 20px;">
-      <img src="../assets/img/Ariji_pic.jpg" alt="Ariji Portrait" style="height:250px;"><br>
+      <img src="../assets/img/Ariji.jpg" alt="Ariji Portrait" style="height:250px;"><br>
       <strong>Arijit Chakma</strong><br>
       <strong>Topic:</strong> Controllable image generation<br>
       <strong>Undergraduate,</strong> Drexel University<br>
@@ -87,7 +87,7 @@ importance: 5
 
   <tr>
     <td valign="top" align="center" style="padding-right: 20px;">
-      <img src="../assets/img/Channacy_pic.jpg" alt="Channacy Portrait" style="height:250px;"><br>
+      <img src="../assets/img/Channacy.JPG" alt="Channacy Portrait" style="height:250px;"><br>
       <strong>Channacy Un</strong><br>
       <strong>Topic:</strong> AI&Building<br>
       <strong>Undergraduate,</strong> Drexel University<br>
