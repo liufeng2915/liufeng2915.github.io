@@ -14,8 +14,11 @@ importance: 5
 <table style="margin-left: auto; margin-right: auto;">
   <tr>
     <td valign="top" align="center" style="padding-right: 20px; padding-bottom: 20px;">
-      <img src="../assets/img/pic.jpg" alt="Portrait" style="height:250px;"><br>
-      <strong>Recruiting now</strong><br>
+      <img src="../assets/img/Yuyang_pic.jpg" alt="Yuyang Portrait" style="height:250px;"><br>
+      <strong><a href="https://steins45.github.io/" target="_blank">Yuyang Ji</a></strong><br>
+      <strong>Email</strong>: yj428@drexel.edu<br>
+      <strong>M.S.</strong>, New York University<br>
+      <strong>B.Eng.</strong>, Southwest Jiaotong University<br>
     </td>
     <td valign="top" align="center" style="padding-right: 20px; padding-bottom: 20px;">
       <img src="../assets/img/pic.jpg" alt="Portrait" style="height:250px;"><br>
@@ -49,11 +52,11 @@ importance: 5
       xia7@seas.upenn.edu<br>
     </td>
     <td valign="top" align="center" style="padding-bottom: 20px;">
-      <img src="../assets/img/Kiran_pic.jpg" alt="Kiran Portrait" style="height:250px;"><br>
-      <strong>Kiran Shidruk</strong><br>
-      <strong>Topic:</strong> Person ReID<br>
-      <strong>Master,</strong> Drexel University<br>
-      kus26@drexel.edu<br>
+      <img src="../assets/img/Ariji_pic.jpg" alt="Ariji Portrait" style="height:250px;"><br>
+      <strong>Arijit Chakma</strong><br>
+      <strong>Topic:</strong> Controllable image generation<br>
+      <strong>Undergraduate,</strong> Drexel University<br>
+      ac4393@drexel.edu<br>
     </td>
   </tr>
 
@@ -83,11 +86,11 @@ importance: 5
 
   <tr>
     <td valign="top" align="center" style="padding-right: 20px;">
-      <img src="../assets/img/Mustafa_pic.jpg" alt="Mustafa Portrait" style="height:250px;"><br>
-      <strong>Mustafa Bookwala</strong><br>
-      <strong>Topic:</strong> DeepFake Detection<br>
+      <img src="../assets/img/Channacy_pic.jpg" alt="Channacy Portrait" style="height:250px;"><br>
+      <strong>Channacy Un</strong><br>
+      <strong>Topic:</strong> AI&Building<br>
       <strong>Undergraduate,</strong> Drexel University<br>
-      mmb479@drexel.edu<br>
+      cu62@drexel.edu<br>
     </td>
   </tr>
 </table>
