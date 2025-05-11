@@ -16,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 importance: 1
 ---
 
-<p><font color="red"> <b>Recruiting Ph.D. students and interns!</b></font> <font color="blue">I am currently seeking highly motivated Ph.D. students for Spring and Fall 2025. If you are interested, please send me your CV, transcripts, and a brief summary of your research experience via email.</font></p> 
+<p><font color="red"> <b>Recruiting Ph.D. students and interns!</b></font> <font color="blue">I am currently seeking highly motivated Ph.D. students. If you are interested, please send me your CV, transcripts, and a brief summary of your research experience via email.</font></p> 
 
 Feng Liu is an Assistant Professor in the <a href="https://drexel.edu/cci/academics/computer-science-department/">Department of Computer Science</a> at <a href="https://drexel.edu/">Drexel University</a>. Previously, he was a postdoctoral researcher at Michigan State University, working under the guidance of <a href="http://www.cse.msu.edu/~liuxm/index2.html">Prof. Xiaoming Liu</a>. 
 
