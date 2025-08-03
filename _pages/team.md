@@ -249,7 +249,6 @@ importance: 5
 
   <div class="section-header">
     <h2>PhD Students</h2>
-    <div class="subtitle">Doctoral researchers advancing the frontiers of knowledge</div>
   </div>
 
   <div class="members-grid">
