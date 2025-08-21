@@ -186,7 +186,7 @@ importance: 2
           <div class="course-info">
             <div class="course-title">
               <span class="course-code">CS583</span>
-              <a href="" target="_blank">Introduction to Computer Vision</a>
+              <a href="../assets/pdf/CS583_syllabus.pdf" target="_blank">Introduction to Computer Vision</a>
             </div>
           </div>
           <div class="course-semester">Fall 2025-2026</div>
