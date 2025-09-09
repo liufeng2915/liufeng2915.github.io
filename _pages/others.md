@@ -212,7 +212,7 @@ importance: 4
 
       <div class="service-category">
         <div class="service-title">
-          <span class="icon">🎯</span> Conference Leadership
+          <span class="icon">🎯</span> Conference Services
         </div>
         <ul class="service-list">
           <li class="service-item">Area Chair for ICLR 2026</li>
