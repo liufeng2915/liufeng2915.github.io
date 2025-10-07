@@ -1,7 +1,6 @@
-
 ---
 layout: post
-date: 2025-10-6
+date: 2025-06-25
 inline: true
 ---
-Our paper “Person Recognition in Aerial Surveillance: A Decade Survey” is accepted by IEEE T-BIOM. 
+<span style="color: blue;"> Our paper “Person Recognition in Aerial Surveillance: A Decade Survey” is accepted by IEEE T-BIOM. </span>  
