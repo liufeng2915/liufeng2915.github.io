@@ -6,6 +6,14 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+<!-- Resource hints for external domains -->
+<link rel="preconnect" href="https://stackpath.bootstrapcdn.com" crossorigin>
+<link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://unpkg.com">
+
 <title>
 
   Feng Liu
@@ -25,9 +33,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" integrity="sha512-RO38pBRxYH3SoOprtPTD86JFOclM51/XTIdEPh5j8sj4tp8jmQIx26twG52UaLi//hQldfrh7e51WzP9wuP32Q==" crossorigin="anonymous" />
 
 <!-- Fonts & Icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"  integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
-<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous"></noscript>
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous"></noscript>
+<link rel="preload" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"></noscript>
 
 <!-- Code Syntax Highlighting -->
 <!-- <link rel="stylesheet" href="https://combinatronics.io/jwarby/pygments-css/master/github.css" />  -->
@@ -40,11 +51,6 @@
 <link rel="stylesheet" href="/assets/css/main.css">
 <link rel="canonical" href="/publications/">
 
-<!-- JQuery -->
-<!-- jQuery -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
-
-
 <!-- Theming-->
 
 <script src="/assets/js/theme.js"></script>
@@ -56,17 +62,6 @@
 
 
     
-<!-- MathJax -->
-<script type="text/javascript">
-  window.MathJax = {
-    tex: {
-      tags: 'ams'
-    }
-  };
-</script>
-<script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script>
-<script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-
 
   </head>
 
@@ -200,7 +195,12 @@
   <ol class="bibliography"><li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_iccv25.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_iccv25.webp" />
+      <img src="../assets/teaser/paper_iccv25.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="HAMoBE: Hierarchical and Adaptive Mixture of Biometric Experts for Video-based Person ReID" />
+    </picture>
   
   
         
@@ -317,7 +317,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_pami25.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_pami25.webp" />
+      <img src="../assets/teaser/paper_pami25.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="Person Recognition at Altitude and Range: Fusion of Face, Body Shape and Gait" />
+    </picture>
   
   
         
@@ -659,7 +664,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_cvpr25_agvpreid.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_cvpr25_agvpreid.webp" />
+      <img src="../assets/teaser/paper_cvpr25_agvpreid.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification" />
+    </picture>
   
   
         
@@ -808,7 +818,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_cvpr25_sapiensid.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_cvpr25_sapiensid.webp" />
+      <img src="../assets/teaser/paper_cvpr25_sapiensid.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="SapiensID: Foundation for Human Recognition" />
+    </picture>
   
   
         
@@ -940,7 +955,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_cvpr25_survey.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_cvpr25_survey.webp" />
+      <img src="../assets/teaser/paper_cvpr25_survey.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions" />
+    </picture>
   
   
         
@@ -1164,7 +1184,12 @@
   <ol class="bibliography"><li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_eccv24_openset.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_eccv24_openset.webp" />
+      <img src="../assets/teaser/paper_eccv24_openset.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="Open-Set Biometrics: Beyond Good Closed-Set Models" />
+    </picture>
   
   
         
@@ -1296,7 +1321,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_cvpr24_clip3dreid.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_cvpr24_clip3dreid.webp" />
+      <img src="../assets/teaser/paper_cvpr24_clip3dreid.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="Distilling CLIP with Dual Guidance for Learning Discriminative Human Body Shape Representation" />
+    </picture>
   
   
         
@@ -1413,7 +1443,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_cvpr24_kprpe.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_cvpr24_kprpe.webp" />
+      <img src="../assets/teaser/paper_cvpr24_kprpe.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="KeyPoint Relative Position Encoding for Face Recognition" />
+    </picture>
   
   
         
@@ -1545,7 +1580,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_cvpr24_tiger.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_cvpr24_tiger.webp" />
+      <img src="../assets/teaser/paper_cvpr24_tiger.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="TIGER: Time-Varying Denoising Model for 3D Point Cloud Generation with Diffusion Process" />
+    </picture>
   
   
         
@@ -1662,7 +1702,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_wacv24.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_wacv24.webp" />
+      <img src="../assets/teaser/paper_wacv24.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="FarSight: A Physics-Driven Whole-Body Biometric System at Large Distance and Altitude" />
+    </picture>
   
   
         
@@ -2021,7 +2066,12 @@
   <ol class="bibliography"><li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_iccv23.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_iccv23.webp" />
+      <img src="../assets/teaser/paper_iccv23.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="Learning Clothing and Pose Invariant 3D Shape Representation for Long-Term Person Re-Identification" />
+    </picture>
   
   
         
@@ -2153,7 +2203,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_cvpr23.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_cvpr23.webp" />
+      <img src="../assets/teaser/paper_cvpr23.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="DCFace: Synthetic Face Generation with Dual Condition Diffusion Model" />
+    </picture>
   
   
         
@@ -2272,7 +2327,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_tpami23.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_tpami23.webp" />
+      <img src="../assets/teaser/paper_tpami23.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="Learning Implicit Functions for Dense 3D Shape Correspondence of Generic Objects" />
+    </picture>
   
   
         
@@ -2361,7 +2421,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_arxiv23.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_arxiv23.webp" />
+      <img src="../assets/teaser/paper_arxiv23.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="INFAMOUS-NeRF: ImproviNg FAce MOdeling Using Semantically-Aligned Hypernetworks with Neural Radiance Fields" />
+    </picture>
   
   
   </div>
@@ -2517,7 +2582,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_ijcb23.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_ijcb23.webp" />
+      <img src="../assets/teaser/paper_ijcb23.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="AG-ReID 2023: Aerial-Ground Person Re-identification Challenge Results" />
+    </picture>
   
   
         
@@ -2921,7 +2991,12 @@
   <ol class="bibliography"><li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_arxiv22.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_arxiv22.webp" />
+      <img src="../assets/teaser/paper_arxiv22.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="The State of Aerial Surveillance: A Survey" />
+    </picture>
   
   
         
@@ -3083,7 +3158,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_neurips22.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_neurips22.webp" />
+      <img src="../assets/teaser/paper_neurips22.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="Cluster and Aggregate: Face Recognition with Large Probe Set" />
+    </picture>
   
   
         
@@ -3204,7 +3284,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper3d_eccv22.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper3d_eccv22.webp" />
+      <img src="../assets/teaser/paper3d_eccv22.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="2D GANs Meet Unsupervised Single-View 3D Reconstruction" />
+    </picture>
   
   
         
@@ -3295,7 +3380,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paperface_eccv22.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paperface_eccv22.webp" />
+      <img src="../assets/teaser/paperface_eccv22.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="Controllable and Guided Face Synthesis for Unconstrained Face Recognition" />
+    </picture>
   
   
         
@@ -3416,7 +3506,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_tpami22.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_tpami22.webp" />
+      <img src="../assets/teaser/paper_tpami22.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="On Learning Disentangled Representations for Gait Recognition" />
+    </picture>
   
   
         
@@ -3539,7 +3634,12 @@
   <ol class="bibliography"><li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_ijcv21.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_ijcv21.webp" />
+      <img src="../assets/teaser/paper_ijcv21.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="Shape My Face: Registering 3D Face Scans by Surface-To-Surface Translation" />
+    </picture>
   
   
         
@@ -3703,7 +3803,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_nips21.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_nips21.webp" />
+      <img src="../assets/teaser/paper_nips21.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="Voxel-based 3D Detection and Reconstruction of Multiple Objects from a Single Image" />
+    </picture>
   
   
         
@@ -3794,7 +3899,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_cvpr21.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_cvpr21.webp" />
+      <img src="../assets/teaser/paper_cvpr21.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="Fully Understanding Generic Objects: Modeling, Segmentation, and Reconstruction" />
+    </picture>
   
   
         
@@ -3902,7 +4012,12 @@
   <ol class="bibliography"><li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_tpami20.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_tpami20.webp" />
+      <img src="../assets/teaser/paper_tpami20.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="Joint Face Alignment and 3D Face Reconstruction with Application to Face Recognition" />
+    </picture>
   
   
         
@@ -4019,7 +4134,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_nips20.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_nips20.webp" />
+      <img src="../assets/teaser/paper_nips20.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="Learning Implicit Functions for Topology-Varying Dense 3D Shape Correspondence" />
+    </picture>
   
   
         
@@ -4110,7 +4230,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_cvpr20.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_cvpr20.webp" />
+      <img src="../assets/teaser/paper_cvpr20.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="On the Detection of Digital Face Manipulation" />
+    </picture>
   
   
         
@@ -4250,7 +4375,12 @@
   <ol class="bibliography"><li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_iccv19.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_iccv19.webp" />
+      <img src="../assets/teaser/paper_iccv19.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="3D Face Modeling from Diverse Raw Scan Data" />
+    </picture>
   
   
         
@@ -4356,7 +4486,12 @@
 <li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_cvpr19.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_cvpr19.webp" />
+      <img src="../assets/teaser/paper_cvpr19.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="Towards High-fidelity Nonlinear 3D Face Morphable Model" />
+    </picture>
   
   
         
@@ -4464,7 +4599,12 @@
   <ol class="bibliography"><li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_cvpr18.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_cvpr18.webp" />
+      <img src="../assets/teaser/paper_cvpr18.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="Disentangling Features in 3D Face Shapes for Joint Face Reconstruction and Recognition" />
+    </picture>
   
   
         
@@ -4598,7 +4738,12 @@
   <ol class="bibliography"><li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_ijcb17.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_ijcb17.webp" />
+      <img src="../assets/teaser/paper_ijcb17.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="Multi-Dim: A Multi-Dimensional Face Database Towards the Application of 3D Technology in Real-World Scenarios" />
+    </picture>
   
   
         
@@ -4732,7 +4877,12 @@
   <ol class="bibliography"><li><div class="row">
   <div class="col-sm-3 abbr">
   
-    <img src="../assets/teaser/paper_eccv16.png" class="teaser img-fluid z-depth-1" />
+    
+    
+    <picture>
+      <source type="image/webp" srcset="../assets/teaser/paper_eccv16.webp" />
+      <img src="../assets/teaser/paper_eccv16.png" class="teaser img-fluid z-depth-1" loading="lazy" alt="Joint Face Alignment and 3D Face Reconstruction" />
+    </picture>
   
   
         
@@ -4877,6 +5027,9 @@
 
   </body>
 
+  <!-- jQuery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+
   <!-- Bootsrap & MDB scripts -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.4.4/umd/popper.min.js" integrity="sha512-eUQ9hGdLjBjY3F41CScH3UX+4JDSI9zXeroz7hJ+RteoCaY+GP/LDoM8AO+Pt+DRFw3nXqsjh9Zsts8hnYv8/A==" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha512-M5KW3ztuIICmVIhjSqXe01oV2bpe248gOxqmlcYrEzAvws7Pw3z6BK0iGbrwvdrUQUhi3eXgtxp5I8PDo9YfjQ==" crossorigin="anonymous"></script>
@@ -4900,22 +5053,9 @@
 <!-- Load Common JS -->
 <script src="/assets/js/common.js"></script>
 
-  <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-H7GRTWZ06X"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  
 
-  gtag('config', 'G-H7GRTWZ06X');
-</script>
 
-<!-- Panelbear Analytics - We respect your privacy -->
-<script async src="https://rum.cronitor.io/script.js"></script>
-<script>
-  window.cronitor = window.cronitor || function() { (window.cronitor.q = window.cronitor.q || []).push(arguments); };
-  cronitor('config', { clientKey: '10358669881b4a08dae585e751fe6dea' });
-</script>
 
 
 </html>
