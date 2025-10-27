@@ -7,6 +7,11 @@ nav: true
 importance: 6
 ---
 
+<meta http-equiv="refresh" content="0; url=https://vilab-group.com/">
+<script type="text/javascript">
+    window.location.href = "https://vilab-group.com/";
+</script>
+
 <style>
   .lab-container {
     max-width: 1000px;
