@@ -113,7 +113,7 @@ importance: 6
   
   <div class="coming-soon-hero">
     <div class="hero-content">
-      <h1 class="lab-title">🔬 Visual Intelligence Lab</h1>
+      <h1 class="lab-title">🔬 <a href="https://vilab-group.com/" target="_blank" style="color: white; text-decoration: none;">Visual Intelligence Lab</a></h1>
       <p class="coming-soon-text">Coming Soon</p>
       <p class="subtitle">
       </p>
