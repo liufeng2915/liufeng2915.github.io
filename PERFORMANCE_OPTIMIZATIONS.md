@@ -135,3 +135,4 @@ enable_panelbear_analytics: true
 ```
 
 This provides real-user monitoring data to track performance over time.
+
