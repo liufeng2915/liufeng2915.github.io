@@ -206,6 +206,7 @@ importance: 4
           <span class="icon">📝</span> Editorial Services
         </div>
         <ul class="service-list">
+          <li class="service-item">Associate Editor for IEEE Transactions on Information Forensics and Security (T-IFS)</li>
           <li class="service-item">Guest Editor for Journal of Imaging</li>
         </ul>
       </div>
@@ -217,6 +218,7 @@ importance: 4
         <ul class="service-list">
           <li class="service-item">Area Chair for ICLR 2026</li>
           <li class="service-item">Area Chair for CVPR 2026</li>
+          <li class="service-item">Area Chair for ICASSP 2026</li>
           <li class="service-item">Area Chair for ACM MM 2025</li>
           <li class="service-item">Area Chairs for FG 2024, 2025</li>
           <li class="service-item">Area Chair for IJCNN 2025</li>
@@ -225,27 +227,13 @@ importance: 4
 
       <div class="service-category">
         <div class="service-title">
-          <span class="icon">📄</span> Journal Reviewer
+          <span class="icon">🎪</span> Workshop Organization
         </div>
-        <div class="service-item">
-          <div class="journal-list">
-            <strong>IEEE Transactions:</strong> Pattern Analysis and Machine Intelligence; Information Forensics and Security; Image Processing; Visualization and Computer Graphics; Industrial Informatics; Multimedia<br>
-            <strong>ACM Transactions:</strong> Multimedia Computing, Communications, and Applications<br>
-            <strong>Other Journals:</strong> Pattern Recognition
-          </div>
-        </div>
-      </div>
-
-      <div class="service-category">
-        <div class="service-title">
-          <span class="icon">🎪</span> Conference Reviewer
-        </div>
-        <div class="service-item">
-          <div class="conference-list">
-            <strong>Computer Vision:</strong> CVPR (2019-2025), ICCV (2019-2025, <a href="https://iccv.thecvf.com/Conferences/2025/ProgramCommittee" target="_blank"><em>Outstanding Reviewer 2025</em></a>), ECCV (2020-2024)<br>
-            <strong>Machine Learning:</strong> NeurIPS (2022-2025), ICML (2024-2025), ICLR (2022-2024)
-          </div>
-        </div>
+        <ul class="service-list">
+          <li class="service-item"><strong>PhysHuman</strong> Workshop @ CVPR 2026 (Denver) - Physically grounded human perception, modeling, and generation</li>
+          <li class="service-item"><strong>AG-ReID</strong> Workshop @ IJCB 2025</li>
+          <li class="service-item"><strong>AG-ReID</strong> Workshop @ ICCV 2023</li>
+        </ul>
       </div>
 
     </div>
