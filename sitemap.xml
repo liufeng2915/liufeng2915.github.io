@@ -65,10 +65,6 @@
 <lastmod>2024-07-01T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/news/news_paper_cvpr26/</loc>
-<lastmod>2025-02-21T00:00:00+00:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/news/news_paper_cvpr25/</loc>
 <lastmod>2025-02-26T00:00:00+00:00</lastmod>
 </url>
@@ -113,6 +109,10 @@
 <lastmod>2026-02-06T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/news/news_paper_cvpr26/</loc>
+<lastmod>2026-02-21T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -132,6 +132,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/pdf/CS583_syllabus.pdf</loc>
-<lastmod>2026-02-25T13:00:40+00:00</lastmod>
+<lastmod>2026-02-25T13:12:28+00:00</lastmod>
 </url>
 </urlset>
