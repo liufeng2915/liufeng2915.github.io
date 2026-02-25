@@ -16,9 +16,12 @@ social: false  # includes social icons at the bottom of the page
 importance: 1
 ---
 
-Feng Liu is an Assistant Professor in the <a href="https://drexel.edu/cci/academics/computer-science-department/">Department of Computer Science</a> at <a href="https://drexel.edu/">Drexel University</a>. Previously, he was a postdoctoral researcher at Michigan State University, working under the guidance of <a href="http://www.cse.msu.edu/~liuxm/index2.html">Prof. Xiaoming Liu</a>. 
+Feng Liu is an Assistant Professor in the <a href="https://drexel.edu/cci/academics/computer-science-department/">Department of Computer Science</a> at <a href="https://drexel.edu/">Drexel University</a>.
 
-**Research interests:**
+**Research Group**
+<a href="https://vilab-group.com/">Visual Intelligence Lab</a>
+
+**Research interests**
 <ul>
 <li><b>3D Computer Vision</b>: 3D object/scene understanding; 3D generation; VR/AR; 3D vision+language understanding</li>
 <li><b>AI + X</b>: Education; Healthcare</li>
