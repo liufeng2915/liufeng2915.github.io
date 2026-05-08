@@ -121,6 +121,10 @@
 <lastmod>2026-03-23T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/news/news_paper_miccai26/</loc>
+<lastmod>2026-03-23T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -140,6 +144,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/pdf/CS583_syllabus.pdf</loc>
-<lastmod>2026-04-02T02:10:35+00:00</lastmod>
+<lastmod>2026-05-08T10:54:50+00:00</lastmod>
 </url>
 </urlset>
