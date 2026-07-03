@@ -207,7 +207,6 @@ importance: 4
         </div>
         <ul class="service-list">
           <li class="service-item">Associate Editor for IEEE Transactions on Information Forensics and Security (T-IFS)</li>
-          <li class="service-item">Guest Editor for Journal of Imaging</li>
         </ul>
       </div>
 
@@ -216,10 +215,11 @@ importance: 4
           <span class="icon">🎯</span> Conference Services
         </div>
         <ul class="service-list">
+          <li class="service-item">Area Chair for NeurIPS 2026</li>
           <li class="service-item">Area Chair for ICLR 2026</li>
           <li class="service-item">Area Chair for CVPR 2026</li>
           <li class="service-item">Area Chair for ICASSP 2026</li>
-          <li class="service-item">Area Chair for ACM MM 2025</li>
+          <li class="service-item">Area Chair for ACM MM 2025, 2026</li>
           <li class="service-item">Area Chairs for FG 2024, 2025, 2026</li>
           <li class="service-item">Area Chair for IJCNN 2025</li>
         </ul>
