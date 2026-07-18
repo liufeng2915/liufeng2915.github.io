@@ -140,10 +140,10 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/lab/</loc>
+<loc>http://localhost:4000/awards-services/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/others/</loc>
+<loc>http://localhost:4000/lab/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/publications/</loc>
@@ -177,6 +177,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/pdf/CS583_syllabus.pdf</loc>
-<lastmod>2026-07-18T23:49:49+00:00</lastmod>
+<lastmod>2026-07-18T23:59:06+00:00</lastmod>
 </url>
 </urlset>
