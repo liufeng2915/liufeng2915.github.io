@@ -27,7 +27,7 @@ importance: 0
 
     <li class="topic">
       <div class="topic-head">
-        <a class="topic-title" href="{{ '/research/person-centric-video/' | relative_url }}">Person-Centric Long-Duration Video Intelligence</a>
+        <a class="topic-title" href="{{ '/research/person-centric-video/' | relative_url }}">Understanding People in Long, Real-World Video</a>
         <span class="topic-desc"> &mdash; Persistently understanding who a person is, what they do, and how they change across long, multi-camera, real-world video.</span>
       </div>
       <div class="topic-tags tags">
