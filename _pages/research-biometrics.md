@@ -7,27 +7,20 @@ nav: false
 importance: 92
 ---
 
-<div class="research-container">
+<div class="research">
 
-  <div class="research-hero">
-    <div class="research-eyebrow">Research Direction</div>
-    <h1>Trustworthy Biometrics and Digital Identity</h1>
-    <p>How do we create, recognize, and protect human identity in a world increasingly
-    populated by synthetic people, avatars, and AI-generated media?</p>
-  </div>
+  <p class="research-problem">How do we create, recognize, and protect human identity in a world
+  increasingly populated by synthetic people, avatars, and AI-generated media?</p>
 
-  <div class="research-section">
-    <p>Our longest and most cited line of work spans face, body, and gait recognition;
-    open-set and large-scale identification; long-range and aerial recognition; deepfake
-    detection; and synthetic identity. As digital entities and AI-generated media
-    proliferate, we study how to recognize real people robustly, generate identity-aware
-    synthetic data, detect manipulation, and provision secure identity &mdash; with
-    fairness, privacy, and explainability built in.</p>
-  </div>
+  <p>Our longest and most cited line of work spans face, body, and gait recognition; open-set and
+  large-scale identification; long-range and aerial recognition; deepfake detection; and synthetic
+  identity. As digital entities and AI-generated media proliferate, we study how to recognize real
+  people robustly, generate identity-aware synthetic data, detect manipulation, and provision secure
+  identity &mdash; with fairness, privacy, and explainability built in.</p>
 
   <div class="research-section">
     <h2>What we work on</h2>
-    <ul class="research-bullets">
+    <ul class="bullets">
       <li>Face, body, gait, and multimodal biometrics</li>
       <li>Open-set and large-scale recognition</li>
       <li>Long-range and aerial person recognition</li>
@@ -43,7 +36,7 @@ importance: 92
 
   <div class="research-section">
     <h2>Selected work</h2>
-    <ul class="research-works">
+    <ul class="works">
       <li>
         <span class="work-title"><a href="https://arxiv.org/abs/1910.01717" target="_blank">On the Detection of Digital Face Manipulation</a></span><br>
         <span class="work-venue">CVPR 2020</span>
@@ -73,14 +66,14 @@ importance: 92
 
   <div class="research-section">
     <h2>Where it applies</h2>
-    <div class="research-tags">
-      <span class="research-tag">Identity verification</span>
-      <span class="research-tag">Fraud prevention</span>
-      <span class="research-tag">Content authenticity &amp; provenance</span>
-      <span class="research-tag">Public safety &amp; defense</span>
-      <span class="research-tag">Synthetic-data generation</span>
-      <span class="research-tag">Privacy-preserving analytics</span>
-      <span class="research-tag">Avatar &amp; virtual-world identity</span>
+    <div class="tags">
+      <span class="tag">Identity verification</span>
+      <span class="tag">Fraud prevention</span>
+      <span class="tag">Content authenticity &amp; provenance</span>
+      <span class="tag">Public safety &amp; defense</span>
+      <span class="tag">Synthetic-data generation</span>
+      <span class="tag">Privacy-preserving analytics</span>
+      <span class="tag">Avatar &amp; virtual-world identity</span>
     </div>
   </div>
 
