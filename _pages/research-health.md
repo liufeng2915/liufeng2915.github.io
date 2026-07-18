@@ -1,0 +1,78 @@
+---
+layout: page
+permalink: /research/ai-health-human-performance/
+title: AI for Health and Human Performance
+description:
+nav: false
+importance: 94
+---
+
+<div class="research-container">
+
+  <div class="research-hero">
+    <div class="research-eyebrow">Impact Area</div>
+    <h1>AI for Health and Human Performance</h1>
+    <p>Current clinical assessments often rely on short observations, subjective scores, or
+    specialized equipment. We develop interpretable, video-based biomarkers that quantify
+    how an individual moves, changes over time, and responds to intervention.</p>
+  </div>
+
+  <div class="research-section">
+    <p>This impact area applies our human-modeling and biomechanics research to health,
+    mobility, and human performance. We build interpretable systems &mdash; grounded in
+    biomechanics and explained in language clinicians and patients can act on &mdash; for
+    remote, unobtrusive, and longitudinal assessment.</p>
+    <div class="research-note">
+      <strong>How this differs from Physical Human Intelligence:</strong> Physical Human
+      Intelligence asks <em>how</em> machines can understand human bodies and movement.
+      AI for Health and Human Performance <em>applies</em> those capabilities to mobility,
+      rehabilitation, disease monitoring, coaching, and personalized assessment.
+    </div>
+  </div>
+
+  <div class="research-section">
+    <h2>What we work on</h2>
+    <ul class="research-bullets">
+      <li>Video-based digital biomarkers</li>
+      <li>Clinical gait and mobility assessment</li>
+      <li>Longitudinal tracking of disease and recovery</li>
+      <li>Personalized movement analysis</li>
+      <li>Rehabilitation monitoring</li>
+      <li>Biomechanics-grounded clinical AI</li>
+      <li>Physical coaching and skill assessment</li>
+      <li>Human performance and readiness</li>
+      <li>Remote and unobtrusive health assessment</li>
+      <li>Interpretable vision-language systems for clinicians and patients</li>
+    </ul>
+  </div>
+
+  <div class="research-section">
+    <h2>Selected work</h2>
+    <ul class="research-works">
+      <li>
+        <span class="work-title">BioGait-VLM: A Tri-Modal Vision-Language-Biomechanics Framework for Interpretable Clinical Gait Assessment</span><br>
+        <span class="work-venue">MICCAI 2026</span>
+      </li>
+      <li>
+        <span class="work-title">From 3D Pose to Prose: Biomechanics-Grounded Vision&ndash;Language Coaching</span><br>
+        <span class="work-venue">CVPR 2026</span>
+      </li>
+    </ul>
+  </div>
+
+  <div class="research-section">
+    <h2>Where it applies</h2>
+    <div class="research-tags">
+      <span class="research-tag">Hospitals &amp; clinics</span>
+      <span class="research-tag">Rehabilitation</span>
+      <span class="research-tag">Medical devices</span>
+      <span class="research-tag">Clinical trials</span>
+      <span class="research-tag">Sports medicine</span>
+      <span class="research-tag">Remote patient monitoring</span>
+      <span class="research-tag">Defense medical &amp; readiness</span>
+    </div>
+  </div>
+
+  <a class="research-back" href="{{ '/research/' | relative_url }}">&larr; All research</a>
+
+</div>
