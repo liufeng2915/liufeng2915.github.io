@@ -7,26 +7,19 @@ nav: false
 importance: 95
 ---
 
-<div class="research-container">
+<div class="research">
 
-  <div class="research-hero">
-    <div class="research-eyebrow">Impact Area</div>
-    <h1>AI for Education and Scientific Learning</h1>
-    <p>We develop multimodal AI systems that reason about student thinking, instructional
-    practice, and the evidence educators use to make decisions.</p>
-  </div>
+  <p class="research-problem">We develop multimodal AI systems that reason about student thinking,
+  instructional practice, and the evidence educators use to make decisions.</p>
 
-  <div class="research-section">
-    <p>Our education research is not general-purpose tutoring or chatbots. It focuses on
-    the multimodal evidence of learning &mdash; classroom video, student scientific
-    drawings, and teacher decision-making &mdash; and on AI that does not merely recognize
-    classroom activity but reasons about student understanding, instructional quality, and
-    the evidence behind educational decisions.</p>
-  </div>
+  <p>Our education research is not general-purpose tutoring or chatbots. It focuses on the multimodal
+  evidence of learning &mdash; classroom video, student scientific drawings, and teacher
+  decision-making &mdash; and on AI that does not merely recognize classroom activity but reasons
+  about student understanding, instructional quality, and the evidence behind educational decisions.</p>
 
   <div class="research-section">
     <h2>What we work on</h2>
-    <ul class="research-bullets">
+    <ul class="bullets">
       <li>Multimodal understanding of classroom instruction</li>
       <li>AI-supported teacher feedback and decision-making</li>
       <li>Student drawing and scientific model assessment</li>
@@ -41,7 +34,7 @@ importance: 95
 
   <div class="research-section">
     <h2>Selected work</h2>
-    <ul class="research-works">
+    <ul class="works">
       <li>
         <span class="work-title"><a href="https://arxiv.org/abs/2602.18466" target="_blank">Can Multimodal LLMs See Science Instruction? Benchmarking Pedagogical Reasoning in K-12 Classroom Videos</a></span><br>
         <span class="work-venue">AIED 2026</span>
@@ -59,12 +52,12 @@ importance: 95
 
   <div class="research-section">
     <h2>Where it applies</h2>
-    <div class="research-tags">
-      <span class="research-tag">K-12 science education</span>
-      <span class="research-tag">Teacher professional development</span>
-      <span class="research-tag">Formative assessment</span>
-      <span class="research-tag">EdTech</span>
-      <span class="research-tag">Learning analytics</span>
+    <div class="tags">
+      <span class="tag">K-12 science education</span>
+      <span class="tag">Teacher professional development</span>
+      <span class="tag">Formative assessment</span>
+      <span class="tag">EdTech</span>
+      <span class="tag">Learning analytics</span>
     </div>
   </div>
 
