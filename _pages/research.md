@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Research & Impact
+title: Research
 description:
 nav: true
 importance: 0
