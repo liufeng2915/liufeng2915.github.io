@@ -610,6 +610,7 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
   /* Clean bullet points */
   /* Selected work */
   /* Subtle tag chips (application sectors / capability tags) */
+  /* Highlighted callout, e.g. a workshop we organize */
 }
 .research .research-lead {
   color: var(--global-text-color-light);
@@ -758,6 +759,31 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
   line-height: 1.55;
   font-size: 0.94rem;
   color: var(--global-text-color-light);
+}
+.research .workshop {
+  border: 1px solid rgba(128, 128, 128, 0.18);
+  border-left: 3px solid var(--global-theme-color);
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+}
+.research .workshop .workshop-title {
+  font-weight: 700;
+  color: var(--global-theme-color);
+  line-height: 1.4;
+}
+.research .workshop .workshop-meta {
+  font-size: 0.85rem;
+  color: var(--global-text-color-light);
+  margin: 0.25rem 0 0.7rem;
+}
+.research .workshop p {
+  margin: 0 0 0.6rem;
+  line-height: 1.55;
+}
+.research .workshop .workshop-keynotes {
+  font-size: 0.9rem;
+  color: var(--global-text-color-light);
+  margin: 0;
 }
 .research .research-back {
   display: inline-block;
