@@ -9,29 +9,49 @@ importance: 91
 
 <div class="research">
 
-  <p class="research-problem">In long, multi-camera, real-world video, can we persistently understand
-  who a person is, what they are doing, how they change over time, and which events deserve
-  attention?</p>
-
-  <p>Real deployments produce far more video than anyone can watch. We build systems that follow
-  people through long, unconstrained, multi-camera and aerial-ground footage &mdash; recognizing
-  identity across time and viewpoint, reasoning about activities and events, and surfacing the
-  moments that matter. This unifies person recognition, video understanding, and temporal reasoning
-  into a single person-centric capability.</p>
+  <p class="research-lede">Long-duration video from fixed, aerial, and body-worn cameras contains
+  brief, high-value moments buried in hours of routine footage. We develop the representations and
+  decision mechanisms needed to find, connect, and rank this evidence: persistent models of people
+  and their activities that survive clothing change, viewpoint shift, low resolution, and gaps across
+  cameras and time, paired with open-set uncertainty estimation that keeps false matches under
+  control.</p>
 
   <div class="research-section">
-    <h2>What we work on</h2>
-    <ul class="bullets">
-      <li>Persistent person understanding across long videos</li>
-      <li>Multimodal person tracking and recognition</li>
-      <li>Long-term activities, behaviors, and interactions</li>
-      <li>Video event memory and temporal reasoning</li>
-      <li>Person-centric video retrieval and summarization</li>
-      <li>Interactive video refinement and sensemaking</li>
-      <li>Weakly supervised video detection</li>
-      <li>Video prioritization, anomaly discovery, and corpus understanding</li>
-      <li>Multi-camera and aerial-ground video understanding</li>
-    </ul>
+    <h2>Three strands of one program</h2>
+
+    <div class="thread">
+      <div class="thread-title">Persistent person representation</div>
+      <p>Multi-cue models combining appearance, 3D body shape, and motion for identification and
+      retrieval in long, fragmented video &mdash; including clothing- and pose-invariant 3D shape
+      representations and recognition at long range and from elevated platforms.</p>
+    </div>
+
+    <div class="thread">
+      <div class="thread-title">Open-set recognition and uncertainty</div>
+      <p>Identification-detection formulations, threshold learning, and calibrated confidence for
+      deciding when a match should be accepted, deferred to a human, or rejected &mdash; the core
+      requirement for retrieval and alerting systems that avoid false-alarm fatigue.</p>
+    </div>
+
+    <div class="thread">
+      <div class="thread-title">Motion as interpretable evidence</div>
+      <p>Vision-language systems that convert fine-grained human motion in unconstrained video into
+      structured, interpretable semantic descriptions rather than coarse action labels, supporting
+      downstream reasoning and human review.</p>
+    </div>
+  </div>
+
+  <div class="research-section">
+    <h2>Ongoing directions</h2>
+    <p>We are extending this foundation toward interactive video triage: learning a user's evolving
+    objectives from sparse, natural feedback such as example clips and short natural-language
+    corrections, propagating that feedback through persistent person- and activity-centric indexes,
+    and prioritizing large unreviewed video collections with calibrated confidence and abstention.
+    Recent work on reinforcement-learned, cost-aware model selection for video-based person
+    recognition (<a href="https://arxiv.org/abs/2602.18990" target="_blank">IDSelect</a>, 2026) is a
+    first step toward systems that decide, per clip, which evidence is worth computing and which
+    results are worth a human's attention. The goal is a system a non-technical user can teach
+    through ordinary review behavior, without ever drawing a bounding box.</p>
   </div>
 
   <div class="research-section">
@@ -42,20 +62,28 @@ importance: 91
         <span class="work-venue">ICCV 2025</span>
       </li>
       <li>
-        <span class="work-title"><a href="https://arxiv.org/abs/2602.18990" target="_blank">IDSelect: A RL-Based Cost-Aware Selection Agent for Video-based Multi-Modal Person Recognition</a></span><br>
-        <span class="work-venue">2026</span>
+        <span class="work-title"><a href="https://arxiv.org/abs/2308.10658" target="_blank">Learning Clothing and Pose Invariant 3D Shape Representation for Long-Term Person Re-Identification</a></span><br>
+        <span class="work-venue">ICCV 2023</span>
+      </li>
+      <li>
+        <span class="work-title"><a href="https://arxiv.org/abs/2306.17206" target="_blank">FarSight: A Physics-Driven Whole-Body Biometric System at Large Distance and Altitude</a></span><br>
+        <span class="work-venue">WACV 2024</span>
+      </li>
+      <li>
+        <span class="work-title"><a href="https://arxiv.org/abs/2504.04708" target="_blank">SapiensID: Foundation for Human Recognition</a></span><br>
+        <span class="work-venue">CVPR 2025</span>
       </li>
       <li>
         <span class="work-title"><a href="https://arxiv.org/abs/2503.08121" target="_blank">AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification</a></span><br>
         <span class="work-venue">CVPR 2025</span>
       </li>
       <li>
-        <span class="work-title"><a href="https://arxiv.org/abs/2505.04616" target="_blank">Person Recognition at Altitude and Range: Fusion of Face, Body Shape and Gait</a></span><br>
-        <span class="work-venue">2025</span>
+        <span class="work-title"><a href="https://arxiv.org/abs/2407.16133" target="_blank">Open-Set Biometrics: Beyond Good Closed-Set Models</a></span><br>
+        <span class="work-venue">ECCV 2024</span>
       </li>
       <li>
-        <span class="work-title"><a href="https://arxiv.org/abs/2602.01012" target="_blank">LocalScore: Local Density-Aware Similarity Scoring for Biometrics</a></span><br>
-        <span class="work-venue">2026</span>
+        <span class="work-title"><a href="https://arxiv.org/abs/2603.26938" target="_blank">From 3D Pose to Prose: Biomechanics-Grounded Vision&ndash;Language Coaching</a></span><br>
+        <span class="work-venue">CVPR 2026</span>
       </li>
       <li>
         <span class="work-title"><a href="https://arxiv.org/abs/2511.17674" target="_blank">Person Recognition in Aerial Surveillance: A Decade Survey</a></span><br>
@@ -72,9 +100,13 @@ importance: 91
       <span class="tag">Aerial-ground surveillance</span>
       <span class="tag">Large-scale video analytics</span>
       <span class="tag">Forensics</span>
-      <span class="tag">Smart infrastructure</span>
+      <span class="tag">Interactive video triage</span>
     </div>
   </div>
+
+  <p class="research-sponsors">This research thread has been supported in part by the IARPA BRIAR
+  program and other federal sponsors. Sponsor acknowledgments follow the language used in the
+  corresponding publications.</p>
 
   <a class="research-back" href="{{ '/research/' | relative_url }}">&larr; All research</a>
 

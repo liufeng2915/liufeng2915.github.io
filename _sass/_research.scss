@@ -168,6 +168,42 @@ $research-rule: rgba(128, 128, 128, 0.18);
     color: var(--global-text-color-light);
   }
 
+  /* Slightly larger opening paragraph on a richer detail page */
+  .research-lede {
+    font-size: 1.06rem;
+    line-height: 1.66;
+    color: var(--global-text-color);
+    margin: 0 0 1.8rem;
+  }
+
+  /* Named sub-strands within a section */
+  .thread {
+    border-left: 3px solid var(--global-theme-color);
+    padding: 0.1rem 0 0.1rem 1.1rem;
+    margin: 0 0 1.4rem;
+
+    .thread-title {
+      font-weight: 700;
+      color: var(--global-text-color);
+      margin-bottom: 0.3rem;
+    }
+    p {
+      margin: 0;
+      color: var(--global-text-color-light);
+      line-height: 1.55;
+    }
+  }
+
+  /* Sponsor / funding acknowledgment */
+  .research-sponsors {
+    margin-top: 2.4rem;
+    padding-top: 1rem;
+    border-top: 1px solid $research-rule;
+    font-size: 0.86rem;
+    line-height: 1.55;
+    color: var(--global-text-color-light);
+  }
+
   .research-back {
     display: inline-block;
     margin-top: 2.4rem;
