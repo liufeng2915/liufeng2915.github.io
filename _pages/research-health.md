@@ -50,11 +50,11 @@ importance: 94
     <h2>Selected work</h2>
     <ul class="research-works">
       <li>
-        <span class="work-title">BioGait-VLM: A Tri-Modal Vision-Language-Biomechanics Framework for Interpretable Clinical Gait Assessment</span><br>
+        <span class="work-title"><a href="https://arxiv.org/abs/2603.08564" target="_blank">BioGait-VLM: A Tri-Modal Vision-Language-Biomechanics Framework for Interpretable Clinical Gait Assessment</a></span><br>
         <span class="work-venue">MICCAI 2026</span>
       </li>
       <li>
-        <span class="work-title">From 3D Pose to Prose: Biomechanics-Grounded Vision&ndash;Language Coaching</span><br>
+        <span class="work-title"><a href="https://arxiv.org/abs/2603.26938" target="_blank">From 3D Pose to Prose: Biomechanics-Grounded Vision&ndash;Language Coaching</a></span><br>
         <span class="work-venue">CVPR 2026</span>
       </li>
     </ul>

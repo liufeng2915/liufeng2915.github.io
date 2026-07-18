@@ -49,11 +49,11 @@ importance: 92
         <span class="work-venue">CVPR 2020</span>
       </li>
       <li>
-        <span class="work-title">DCFace: Synthetic Face Generation with Dual Condition Diffusion Model</span><br>
+        <span class="work-title"><a href="https://arxiv.org/abs/2304.07060" target="_blank">DCFace: Synthetic Face Generation with Dual Condition Diffusion Model</a></span><br>
         <span class="work-venue">CVPR 2023</span>
       </li>
       <li>
-        <span class="work-title">Open-Set Biometrics: Beyond Good Closed-Set Models</span><br>
+        <span class="work-title"><a href="https://arxiv.org/abs/2407.16133" target="_blank">Open-Set Biometrics: Beyond Good Closed-Set Models</a></span><br>
         <span class="work-venue">ECCV 2024</span>
       </li>
       <li>
@@ -65,7 +65,7 @@ importance: 92
         <span class="work-venue">2026</span>
       </li>
       <li>
-        <span class="work-title">Controllable and Guided Face Synthesis for Unconstrained Face Recognition</span><br>
+        <span class="work-title"><a href="https://arxiv.org/abs/2207.10180" target="_blank">Controllable and Guided Face Synthesis for Unconstrained Face Recognition</a></span><br>
         <span class="work-venue">ECCV 2022</span>
       </li>
     </ul>

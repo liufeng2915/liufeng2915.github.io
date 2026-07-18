@@ -44,7 +44,7 @@ importance: 91
     <h2>Selected work</h2>
     <ul class="research-works">
       <li>
-        <span class="work-title">HAMoBE: Hierarchical and Adaptive Mixture of Biometric Experts for Video-based Person Re-ID</span><br>
+        <span class="work-title"><a href="https://arxiv.org/abs/2508.05038" target="_blank">HAMoBE: Hierarchical and Adaptive Mixture of Biometric Experts for Video-based Person Re-ID</a></span><br>
         <span class="work-venue">ICCV 2025</span>
       </li>
       <li>
@@ -52,7 +52,7 @@ importance: 91
         <span class="work-venue">2026</span>
       </li>
       <li>
-        <span class="work-title">AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification</span><br>
+        <span class="work-title"><a href="https://arxiv.org/abs/2503.08121" target="_blank">AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification</a></span><br>
         <span class="work-venue">CVPR 2025</span>
       </li>
       <li>
@@ -64,7 +64,7 @@ importance: 91
         <span class="work-venue">2026</span>
       </li>
       <li>
-        <span class="work-title">Person Recognition in Aerial Surveillance: A Decade Survey</span><br>
+        <span class="work-title"><a href="https://arxiv.org/abs/2511.17674" target="_blank">Person Recognition in Aerial Surveillance: A Decade Survey</a></span><br>
         <span class="work-venue">IEEE T-BIOM 2025</span>
       </li>
     </ul>

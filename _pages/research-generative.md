@@ -43,19 +43,19 @@ importance: 93
     <h2>Selected work</h2>
     <ul class="research-works">
       <li>
-        <span class="work-title">TIGER: Time-Varying Denoising Model for 3D Point Cloud Generation with Diffusion Process</span><br>
+        <span class="work-title"><a href="https://cvlab.cse.msu.edu/pdfs/Ren_Kim_Liu_Liu_TIGER.pdf" target="_blank">TIGER: Time-Varying Denoising Model for 3D Point Cloud Generation with Diffusion Process</a></span><br>
         <span class="work-venue">CVPR 2024</span>
       </li>
       <li>
-        <span class="work-title">2D GANs Meet Unsupervised Single-View 3D Reconstruction</span><br>
+        <span class="work-title"><a href="https://arxiv.org/abs/2207.10183" target="_blank">2D GANs Meet Unsupervised Single-View 3D Reconstruction</a></span><br>
         <span class="work-venue">ECCV 2022</span>
       </li>
       <li>
-        <span class="work-title">Learning Implicit Functions for Topology-Varying Dense 3D Shape Correspondence</span><br>
+        <span class="work-title"><a href="https://arxiv.org/abs/2212.14276" target="_blank">Learning Implicit Functions for Topology-Varying Dense 3D Shape Correspondence</a></span><br>
         <span class="work-venue">NeurIPS 2020 (Oral) / TPAMI 2023</span>
       </li>
       <li>
-        <span class="work-title">Bridge: Basis-Driven Causal Inference Marries VFMs for Domain Generalization</span><br>
+        <span class="work-title"><a href="https://arxiv.org/abs/2604.26820" target="_blank">Bridge: Basis-Driven Causal Inference Marries VFMs for Domain Generalization</a></span><br>
         <span class="work-venue">CVPR 2026</span>
       </li>
       <li>

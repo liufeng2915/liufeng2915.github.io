@@ -43,11 +43,11 @@ importance: 95
     <h2>Selected work</h2>
     <ul class="research-works">
       <li>
-        <span class="work-title">Can Multimodal LLMs See Science Instruction? Benchmarking Pedagogical Reasoning in K-12 Classroom Videos</span><br>
+        <span class="work-title"><a href="https://arxiv.org/abs/2602.18466" target="_blank">Can Multimodal LLMs See Science Instruction? Benchmarking Pedagogical Reasoning in K-12 Classroom Videos</a></span><br>
         <span class="work-venue">AIED 2026</span>
       </li>
       <li>
-        <span class="work-title">DrawSim-PD: Simulating Student Science Drawings to Support NGSS-Aligned Teacher Diagnostic Reasoning</span><br>
+        <span class="work-title"><a href="https://arxiv.org/abs/2602.01578" target="_blank">DrawSim-PD: Simulating Student Science Drawings to Support NGSS-Aligned Teacher Diagnostic Reasoning</a></span><br>
         <span class="work-venue">AIED 2026</span>
       </li>
       <li>

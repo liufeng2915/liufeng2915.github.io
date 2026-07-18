@@ -42,27 +42,27 @@ importance: 90
     <h2>Selected work</h2>
     <ul class="research-works">
       <li>
-        <span class="work-title">Distilling CLIP with Dual Guidance for Learning Discriminative Human Body Shape Representation</span><br>
+        <span class="work-title"><a href="https://cvlab.cse.msu.edu/pdfs/Liu_Kim_Ren_Liu_CLIP3DREID.pdf" target="_blank">Distilling CLIP with Dual Guidance for Learning Discriminative Human Body Shape Representation</a></span><br>
         <span class="work-venue">CVPR 2024</span>
       </li>
       <li>
-        <span class="work-title">SapiensID: Foundation for Human Recognition</span><br>
+        <span class="work-title"><a href="https://arxiv.org/abs/2504.04708" target="_blank">SapiensID: Foundation for Human Recognition</a></span><br>
         <span class="work-venue">CVPR 2025</span>
       </li>
       <li>
-        <span class="work-title">From 3D Pose to Prose: Biomechanics-Grounded Vision&ndash;Language Coaching</span><br>
+        <span class="work-title"><a href="https://arxiv.org/abs/2603.26938" target="_blank">From 3D Pose to Prose: Biomechanics-Grounded Vision&ndash;Language Coaching</a></span><br>
         <span class="work-venue">CVPR 2026</span>
       </li>
       <li>
-        <span class="work-title">Learning Clothing and Pose Invariant 3D Shape Representation for Long-Term Person Re-Identification</span><br>
+        <span class="work-title"><a href="https://arxiv.org/abs/2308.10658" target="_blank">Learning Clothing and Pose Invariant 3D Shape Representation for Long-Term Person Re-Identification</a></span><br>
         <span class="work-venue">ICCV 2023</span>
       </li>
       <li>
-        <span class="work-title">Farsight: A Physics-Driven Whole-Body Biometric System at Large Distance and Altitude</span><br>
+        <span class="work-title"><a href="https://arxiv.org/abs/2306.17206" target="_blank">FarSight: A Physics-Driven Whole-Body Biometric System at Large Distance and Altitude</a></span><br>
         <span class="work-venue">WACV 2024</span>
       </li>
       <li>
-        <span class="work-title">ROG-Grasp: Root-Oriented Geometry for Robotic Grasping and Placement</span><br>
+        <span class="work-title"><a href="https://arxiv.org/abs/2606.00449" target="_blank">ROG-Grasp: Root-Oriented Geometry for Robotic Grasping and Placement</a></span><br>
         <span class="work-venue">IEEE CASE 2026</span>
       </li>
     </ul>
