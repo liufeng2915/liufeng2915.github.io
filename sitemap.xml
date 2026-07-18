@@ -125,6 +125,10 @@
 <lastmod>2026-05-07T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/news/news_award_fair/</loc>
+<lastmod>2026-06-29T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -165,6 +169,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/pdf/CS583_syllabus.pdf</loc>
-<lastmod>2026-07-18T23:17:40+00:00</lastmod>
+<lastmod>2026-07-18T23:28:27+00:00</lastmod>
 </url>
 </urlset>
