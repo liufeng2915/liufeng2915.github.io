@@ -22,11 +22,12 @@ Feng Liu is an Assistant Professor in the <a href="https://drexel.edu/cci/academ
 <a href="https://vilab-group.com/">Visual Intelligence Lab</a>
 
 **Research interests**
+My group develops visual intelligence for humans and the physical world, organized into four research directions (see the <a href="{{ '/research/' | relative_url }}">Research</a> page for details):
 <ul>
-<li><b>3D Computer Vision</b>: 3D object/scene understanding; 3D generation; VR/AR; 3D vision+language understanding</li>
-<li><b>AI + X</b>: Education; Healthcare</li>
-<li><b>3D Human Digitization</b>: Modeling, reconstruction and rendering; Biomechanics</li>
-<li><b>Generative AI</b>: Explainability, generalization and controllability in generative models; DeepFake detection</li>
-<li><b>Biometric Recognition</b>: Face and gait recognition; Person re-identification</li>
+<li><b><a href="{{ '/research/physical-human-intelligence/' | relative_url }}">Physical Human Intelligence</a></b>: 3D humans, motion, biomechanics, and embodied AI</li>
+<li><b><a href="{{ '/research/person-centric-video/' | relative_url }}">Understanding People in Long, Real-World Video</a></b>: identity, activity, and evidence across long, multi-camera footage</li>
+<li><b><a href="{{ '/research/biometrics-digital-identity/' | relative_url }}">Trustworthy Biometrics and Digital Identity</a></b>: recognition, deepfake detection, and synthetic identity</li>
+<li><b><a href="{{ '/research/generative-multimodal-ai/' | relative_url }}">Generative and Multimodal AI for the Physical World</a></b>: 3D generation, vision-language models, simulation, and domain generalization</li>
 </ul>
+<b>Impact areas</b>: <a href="{{ '/research/ai-health-human-performance/' | relative_url }}">AI for Health and Human Performance</a> and <a href="{{ '/research/ai-education-scientific-learning/' | relative_url }}">AI for Education and Scientific Learning</a>.
 
