@@ -168,6 +168,31 @@ $research-rule: rgba(128, 128, 128, 0.18);
     color: var(--global-text-color-light);
   }
 
+  /* Highlighted callout, e.g. a workshop we organize */
+  .workshop {
+    border: 1px solid $research-rule;
+    border-left: 3px solid var(--global-theme-color);
+    border-radius: 8px;
+    padding: 1rem 1.2rem;
+
+    .workshop-title {
+      font-weight: 700;
+      color: var(--global-theme-color);
+      line-height: 1.4;
+    }
+    .workshop-meta {
+      font-size: 0.85rem;
+      color: var(--global-text-color-light);
+      margin: 0.25rem 0 0.7rem;
+    }
+    p { margin: 0 0 0.6rem; line-height: 1.55; }
+    .workshop-keynotes {
+      font-size: 0.9rem;
+      color: var(--global-text-color-light);
+      margin: 0;
+    }
+  }
+
   .research-back {
     display: inline-block;
     margin-top: 2.4rem;
