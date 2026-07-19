@@ -3,7 +3,7 @@ layout: aboutnew
 title: About
 permalink: /
 description: >
-    <p><b>Assistant Professor</b><br>Department of Computer Science<br>Drexel University</p>
+    <p><b>Assistant Professor</b><br><a href="https://drexel.edu/cci/academics/computer-science-department/">Department of Computer Science</a><br><a href="https://drexel.edu/">Drexel University</a></p>
 
 profile:
   align: right
@@ -15,8 +15,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 importance: 1
 ---
-
-Feng Liu is an Assistant Professor in the <a href="https://drexel.edu/cci/academics/computer-science-department/">Department of Computer Science</a> at <a href="https://drexel.edu/">Drexel University</a>.
 
 **Research Group:** <a href="https://vilab-group.com/">Visual Intelligence Lab</a>
 
