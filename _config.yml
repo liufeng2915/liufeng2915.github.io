@@ -100,6 +100,7 @@ collections:
 
 news_scrollable: true
 news_limit: # leave blank to include all the news in the `_news` folder 10
+news_start_year: 2025 # only show news items dated in this year or later (leave blank to show all)
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
