@@ -22,8 +22,7 @@ Feng Liu is an Assistant Professor in the <a href="https://drexel.edu/cci/academ
 
 We always look for passionate students to join the team in terms of RA/externship/internship/visiting students (more info <a href="https://vilab-group.com/#vacancies">here</a>)!
 
-**Research interests**
-My group develops visual intelligence for humans and the physical world, organized into four research directions (see the <a href="{{ '/research/' | relative_url }}">Research</a> page for details):
+**Research interests:** My group develops visual intelligence for humans and the physical world, organized into four research directions (see the <a href="{{ '/research/' | relative_url }}">Research</a> page for details):
 <ul>
 <li><b><a href="{{ '/research/physical-human-intelligence/' | relative_url }}">Physical Human Intelligence</a></b>: 3D humans, motion, biomechanics, and embodied AI</li>
 <li><b><a href="{{ '/research/person-centric-video/' | relative_url }}">Understanding People in Long, Real-World Video</a></b>: identity, activity, and evidence across long, multi-camera footage</li>
