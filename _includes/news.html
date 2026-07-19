@@ -6,6 +6,8 @@
       <table class="table table-sm table-borderless">
       {% assign news = site.news | reverse %}
       {% for item in news limit: site.news_limit %}
+        {% assign item_year = item.date | date: "%Y" | times: 1 %}
+        {% if site.news_start_year == blank or item_year >= site.news_start_year %}
         <tr>
           <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
           <td>
@@ -16,6 +18,7 @@
             {% endif %}
           </td>
         </tr>
+        {% endif %}
       {% endfor %}
       </table>
     </div>
