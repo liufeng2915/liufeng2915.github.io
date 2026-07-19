@@ -20,7 +20,7 @@ Feng Liu is an Assistant Professor in the <a href="https://drexel.edu/cci/academ
 
 **Research Group:** <a href="https://vilab-group.com/">Visual Intelligence Lab</a>
 
-We always look for passionate students to join the team in terms of RA/externship/internship/visiting students (more info <a href="https://vilab-group.com/#vacancies">here</a>)!
+<span style="color: blue; font-style: italic;">We always look for passionate students to join the team in terms of RA/externship/internship/visiting students (more info <a href="https://vilab-group.com/#vacancies" style="color: blue; text-decoration: underline;">here</a>)!</span>
 
 **Research interests:** My group develops visual intelligence for humans and the physical world, organized into four research directions (see the <a href="{{ '/research/' | relative_url }}">Research</a> page for details):
 <ul>
