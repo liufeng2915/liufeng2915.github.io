@@ -36,10 +36,6 @@ importance: 4
         <span class="work-title">OpenAI Researcher Access Program Award</span><br>
         <span class="work-venue">2025</span>
       </li>
-      <li>
-        <span class="work-title"><a href="https://www.acmturc.com/2019/en/doctoral_thesis_award.html" target="_blank">ACM China Doctoral Dissertation Award</a></span><br>
-        <span class="work-venue">2018</span>
-      </li>
     </ul>
   </div>
 
