@@ -47,8 +47,9 @@ importance: 4
   </div>
 
   <div class="research-section">
-    <h2>Area Chair</h2>
+    <h2>Area Chair / Senior Program Committee</h2>
     <ul class="bullets">
+      <li>AAAI 2027</li>
       <li>NeurIPS 2026</li>
       <li>ICLR 2026</li>
       <li>CVPR 2026</li>
