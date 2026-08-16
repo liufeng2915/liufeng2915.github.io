@@ -1,34 +1,193 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+# Maps co-author names to their homepages. The bibliography template links a
+# name when the last name matches a key here and the first name matches one of
+# the `firstname` variants. Linking is restricted to 2025+ entries in
+# _layouts/bib.html. Entries with a "*" (equal contribution) parse the "*" as
+# part of the last name, so those get their own keys.
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Liu":
+  - firstname: ["Xiaoming"]
+    url: https://cs.unc.edu/person/xiaoming-liu/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Jain":
+  - firstname: ["Anil", "Anil K", "Anil K."]
+    url: https://www.cse.msu.edu/~jain/
+  - firstname: ["Jitesh"]
+    url: https://praeclarumjj3.github.io/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Ross":
+  - firstname: ["Arun"]
+    url: https://rossarun.wixsite.com/arun-ross
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Chan":
+  - firstname: ["Stanley", "Stanley H."]
+    url: https://engineering.purdue.edu/ChanGroup/stanleychan.html
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Wang":
+  - firstname: ["Zhangyang"]
+    url: https://ece.utexas.edu/people/faculty/atlas-wang
+  - firstname: ["Ren"]
+    url: https://wangren09.github.io/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Shi":
+  - firstname: ["Humphrey"]
+    url: https://www.humphreyshi.com/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Kong":
+  - firstname: ["Yu"]
+    url: https://www.egr.msu.edu/~yukong/
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Xu":
+  - firstname: ["Kaidi"]
+    url: https://kaidixu.com/
+
+"Chen":
+  - firstname: ["Tianlong"]
+    url: https://tianlong-chen.github.io/
+  - firstname: ["Erdong"]
+    url: https://www.chenerdong.com/
+
+"Chen*":
+  - firstname: ["Erdong"]
+    url: https://www.chenerdong.com/
+
+"Sridharan":
+  - firstname: ["Sridha"]
+    url: https://www.qut.edu.au/about/our-people/academic-profiles/s.sridharan
+
+"Fookes":
+  - firstname: ["Clinton"]
+    url: https://www.qut.edu.au/about/our-people/academic-profiles/c.fookes
+
+"Nguyen":
+  - firstname: ["Kien"]
+    url: https://www.qut.edu.au/about/our-people/academic-profiles/k.nguyenthanh
+
+"Cheng":
+  - firstname: ["Zhi-Qi"]
+    url: https://faculty.washington.edu/zhiqics/
+  - firstname: ["Hao"]
+    url: https://people.utwente.nl/h.cheng-2
+
+"Huang":
+  - firstname: ["Siyu"]
+    url: https://siyuhuang.github.io/
+
+"Dai":
+  - firstname: ["Qi"]
+    url: https://daiqi1989.github.io/
+
+"Vosselman":
+  - firstname: ["George"]
+    url: https://people.utwente.nl/george.vosselman
+
+"Gevaert":
+  - firstname: ["Caroline"]
+    url: https://research.utwente.nl/en/persons/caroline-gevaert/
+
+"Ji":
+  - firstname: ["Yuyang"]
+    url: https://steins45.github.io/
+
+"Ji*":
+  - firstname: ["Yuyang"]
+    url: https://steins45.github.io/
+
+"Chakma":
+  - firstname: ["Arijit"]
+    url: https://www.arijichakma.com/
+
+"Kim":
+  - firstname: ["Minchul"]
+    url: https://mckim.dev/
+
+"Su":
+  - firstname: ["Yiyang"]
+    url: https://cse.msu.edu/~suyiyan1/
+
+"Su*":
+  - firstname: ["Yiyang"]
+    url: https://cse.msu.edu/~suyiyan1/
+
+"Ye":
+  - firstname: ["Dingqiang"]
+    url: https://bugjudger.github.io/
+
+"Asnani":
+  - firstname: ["Vishal"]
+    url: https://vishal3477.github.io/
+
+"Chimitt":
+  - firstname: ["Nicholas"]
+    url: https://nchimitt.github.io/
+
+"Zhang":
+  - firstname: ["Xingguang"]
+    url: https://xg416.github.io/
+
+"Kane":
+  - firstname: ["Aditya"]
+    url: https://adityakane2001.github.io/
+
+"Robbins":
+  - firstname: ["Wes"]
+    url: https://wes-robbins.xyz/
+
+"Zhu":
+  - firstname: ["Shengjie"]
+    url: https://shngjz.github.io/
+
+"Guo":
+  - firstname: ["Lanqing"]
+    url: https://guolanqing.github.io/
+
+"Pemasiri":
+  - firstname: ["Akila"]
+    url: https://www.qut.edu.au/about/our-people/academic-profiles/a.thondilege
+
+"Wu":
+  - firstname: ["Fengyi"]
+    url: https://fengyiwu98.github.io/
+
+"Yano":
+  - firstname: ["Masumi"]
+    url: https://masumiyano.github.io/
+
+"Hong":
+  - firstname: ["Mingbo"]
+    url: https://mingbohong.github.io/
+
+"He":
+  - firstname: ["Peng"]
+    url: https://ceshs.wsu.edu/ceshs-directory/wsu-profile/peng.he/
+
+"He*":
+  - firstname: ["Peng"]
+    url: https://ceshs.wsu.edu/ceshs-directory/wsu-profile/peng.he/
+
+"Li":
+  - firstname: ["Tingting"]
+    url: https://ceshs.wsu.edu/ceshs-directory/wsu-profile/tingting.li1/
+
+"Do":
+  - firstname: ["Tiffany D.", "Tiffany"]
+    url: https://drexel.edu/cci/about/directory/D/Do-Tiffany-D/
+
+"Greenberg":
+  - firstname: ["Jacob K.", "Jacob"]
+    url: https://neurosurgery.wustl.edu/people/jacob-greenberg-md-ms/
+
+"Steel":
+  - firstname: ["Benjamin"]
+    url: https://sites.wustl.edu/greenberglab/people/benjamin-steel-bs/
+
+"Singh":
+  - firstname: ["Pranay"]
+    url: https://sites.wustl.edu/greenberglab/people/pranay-singh/
+
+"Lewis":
+  - firstname: ["Abigail"]
+    url: https://datasciences.wustl.edu/people/abigail-lewis/
+
+"Satyakam":
+  - firstname: ["Siddharth"]
+    url: https://engineering.msu.edu/faculty/siddharth-satyakam
