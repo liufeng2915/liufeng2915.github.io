@@ -37,6 +37,9 @@
               {% endif %}
             {% endfor %}
           {% endif %}
+          {% comment %} Only link co-author homepages for 2025+ publications. {% endcomment %}
+          {% assign entry_year_num = entry.year | plus: 0 %}
+          {% if entry_year_num < 2025 %}{% assign coauthor_url = nil %}{% endif %}
           
           {% if forloop.length == 1 %}
             {% if author_is_self %}
