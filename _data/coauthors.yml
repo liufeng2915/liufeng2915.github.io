@@ -191,3 +191,11 @@
 "Satyakam":
   - firstname: ["Siddharth"]
     url: https://engineering.msu.edu/faculty/siddharth-satyakam
+
+"Shen":
+  - firstname: ["Yixuan"]
+    url: https://www.yixuanshen.com/
+
+"Shen*":
+  - firstname: ["Yixuan"]
+    url: https://www.yixuanshen.com/
