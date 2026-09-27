@@ -52,7 +52,7 @@ importance: 4
       <li>AAAI 2027</li>
       <li>NeurIPS 2026</li>
       <li>ICLR 2026, 2027</li>
-      <li>CVPR 2026</li>
+      <li>CVPR 2026, 2027</li>
       <li>ICASSP 2026</li>
       <li>ACM Multimedia 2025, 2026</li>
       <li>FG 2024, 2025, 2026</li>
