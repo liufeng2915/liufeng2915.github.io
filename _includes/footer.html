@@ -1,6 +1,11 @@
 {% if site.footer_fixed %}
 <footer class="fixed-bottom">
   <div class="container mt-0">
+    <div style="text-align: center; margin: 8px 0 4px;">
+      <a href="https://mapmyvisitors.com/web/1c8i0" title="Visitor map" target="_blank" rel="noopener">
+        <img src="https://mapmyvisitors.com/map.png?d=yD_voZqnAan_EpoyXqPinc3gO7SDVOs_Jvi3nUr35WY&cl=ffffff" alt="Visitor map" style="max-width: 200px; width: 100%; height: auto;">
+      </a>
+    </div>
     &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}.
     {{ site.footer_text }}
     {% if site.impressum_path %}
@@ -14,6 +19,11 @@
 {% else %}
 <footer class="sticky-bottom mt-5">
   <div class="container">
+    <div style="text-align: center; margin: 8px 0 4px;">
+      <a href="https://mapmyvisitors.com/web/1c8i0" title="Visitor map" target="_blank" rel="noopener">
+        <img src="https://mapmyvisitors.com/map.png?d=yD_voZqnAan_EpoyXqPinc3gO7SDVOs_Jvi3nUr35WY&cl=ffffff" alt="Visitor map" style="max-width: 200px; width: 100%; height: auto;">
+      </a>
+    </div>
     &copy; Copyright {{ site.time | date: '%Y' }} {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}.
     {{ site.footer_text }}
     {% if site.impressum_path %}
