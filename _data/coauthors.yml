@@ -60,7 +60,11 @@
 
 "Nguyen":
   - firstname: ["Kien"]
-    url: https://www.qut.edu.au/about/our-people/academic-profiles/k.nguyenthanh
+    url: https://research.qut.edu.au/saivt/staff/kien-nguyen-thanh/
+
+"Zhou":
+  - firstname: ["Lifeng"]
+    url: https://lfzhou917.github.io/
 
 "Cheng":
   - firstname: ["Zhi-Qi"]
